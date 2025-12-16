@@ -1,0 +1,16 @@
+# --- Core Application ---
+streamlit>=1.30.0
+pandas
+numpy
+
+# --- AI & Machine Learning (Local) ---
+torch
+transformers
+scikit-learn
+
+# --- AI & LLM (Cloud) ---
+google-generativeai
+
+# --- Utilities ---
+python-dotenv
+watchdog  # Bagus untuk auto-reload streamlit yang lebih mulus

@@ -1,0 +1,432 @@
+[
+  {
+    "recipe_id": "br_001",
+    "bean_id": "cb_001",
+    "brew_method": "V60",
+    "grind_size": "Medium-Fine",
+    "coffee_grams": 20,
+    "water_grams": 320,
+    "water_temp_c": 96,
+    "technique_notes": "Use a spiral pouring motion and aim for a total brew time of 2:30 to bring out the floral notes."
+  },
+  {
+    "recipe_id": "br_002",
+    "bean_id": "cb_002",
+    "brew_method": "French Press",
+    "grind_size": "Coarse",
+    "coffee_grams": 30,
+    "water_grams": 450,
+    "water_temp_c": 93,
+    "technique_notes": "After pouring, stir gently once to ensure all grounds are saturated before placing the lid on."
+  },
+  {
+    "recipe_id": "br_003",
+    "bean_id": "cb_003",
+    "brew_method": "Chemex",
+    "grind_size": "Medium-Coarse",
+    "coffee_grams": 42,
+    "water_grams": 700,
+    "water_temp_c": 95,
+    "technique_notes": "The thick filter is key; rinse it well with hot water to avoid a papery taste in the final cup."
+  },
+  {
+    "recipe_id": "br_004",
+    "bean_id": "cb_004",
+    "brew_method": "AeroPress",
+    "grind_size": "Fine",
+    "coffee_grams": 18,
+    "water_grams": 220,
+    "water_temp_c": 90,
+    "technique_notes": "Use the inverted method and a 90-second steep time to maximize the rich, earthy body."
+  },
+  {
+    "recipe_id": "br_005",
+    "bean_id": "cb_005",
+    "brew_method": "French Press",
+    "grind_size": "Coarse",
+    "coffee_grams": 32,
+    "water_grams": 480,
+    "water_temp_c": 92,
+    "technique_notes": "Press the plunger slowly and steadily to minimize sediment in your cup."
+  },
+  {
+    "recipe_id": "br_006",
+    "bean_id": "cb_006",
+    "brew_method": "V60",
+    "grind_size": "Medium-Fine",
+    "coffee_grams": 22,
+    "water_grams": 350,
+    "water_temp_c": 94,
+    "technique_notes": "A 45-second bloom with 60g of water will enhance the chocolatey and spicy notes."
+  },
+  {
+    "recipe_id": "br_007",
+    "bean_id": "cb_007",
+    "brew_method": "AeroPress",
+    "grind_size": "Medium-Fine",
+    "coffee_grams": 17,
+    "water_grams": 250,
+    "water_temp_c": 93,
+    "technique_notes": "Press gently over 30 seconds for a cleaner, brighter cup that highlights the citrus finish."
+  },
+  {
+    "recipe_id": "br_008",
+    "bean_id": "cb_008",
+    "brew_method": "Chemex",
+    "grind_size": "Medium",
+    "coffee_grams": 30,
+    "water_grams": 500,
+    "water_temp_c": 96,
+    "technique_notes": "Pour slowly and in stages to delicately extract the complex floral and fruit notes of the Geisha."
+  },
+  {
+    "recipe_id": "br_009",
+    "bean_id": "cb_009",
+    "brew_method": "V60",
+    "grind_size": "Medium",
+    "coffee_grams": 20,
+    "water_grams": 300,
+    "water_temp_c": 92,
+    "technique_notes": "A slightly coarser grind and lower temperature will emphasize the sweet, jammy fruit notes of this natural processed bean."
+  },
+  {
+    "recipe_id": "br_010",
+    "bean_id": "cb_010",
+    "brew_method": "French Press",
+    "grind_size": "Coarse",
+    "coffee_grams": 35,
+    "water_grams": 500,
+    "water_temp_c": 93,
+    "technique_notes": "A 4-minute steep time is perfect for balancing the sweet caramel and nutty flavors."
+  },
+  {
+    "recipe_id": "br_011",
+    "bean_id": "cb_011",
+    "brew_method": "V60",
+    "grind_size": "Medium-Fine",
+    "coffee_grams": 21,
+    "water_grams": 340,
+    "water_temp_c": 95,
+    "technique_notes": "Focus on an even pour to bring out the bright, juicy red apple and orange zest notes."
+  },
+  {
+    "recipe_id": "br_012",
+    "bean_id": "cb_012",
+    "brew_method": "AeroPress",
+    "grind_size": "Medium-Fine",
+    "coffee_grams": 16,
+    "water_grams": 240,
+    "water_temp_c": 92,
+    "technique_notes": "A quick 60-second steep before plunging creates a wonderfully smooth and balanced cup."
+  },
+  {
+    "recipe_id": "br_013",
+    "bean_id": "cb_013",
+    "brew_method": "Chemex",
+    "grind_size": "Medium-Coarse",
+    "coffee_grams": 40,
+    "water_grams": 650,
+    "water_temp_c": 93,
+    "technique_notes": "This bean shines with a clean brew; ensure a steady pour rate for a creamy, sweet result."
+  },
+  {
+    "recipe_id": "br_014",
+    "bean_id": "cb_014",
+    "brew_method": "V60",
+    "grind_size": "Medium-Fine",
+    "coffee_grams": 22,
+    "water_grams": 360,
+    "water_temp_c": 96,
+    "technique_notes": "Higher temperature water will unlock the vibrant blackberry and lemon notes in this peaberry."
+  },
+  {
+    "recipe_id": "br_015",
+    "bean_id": "cb_015",
+    "brew_method": "French Press",
+    "grind_size": "Coarse",
+    "coffee_grams": 30,
+    "water_grams": 460,
+    "water_temp_c": 91,
+    "technique_notes": "Use a slightly lower temperature to highlight the dark chocolate and plum notes without over-extraction."
+  },
+  {
+    "recipe_id": "br_016",
+    "bean_id": "cb_016",
+    "brew_method": "AeroPress",
+    "grind_size": "Fine",
+    "coffee_grams": 20,
+    "water_grams": 180,
+    "water_temp_c": 90,
+    "technique_notes": "Create a powerful, espresso-like concentrate; dilute with hot water to your preferred strength."
+  },
+  {
+    "recipe_id": "br_017",
+    "bean_id": "cb_017",
+    "brew_method": "AeroPress",
+    "grind_size": "Fine",
+    "coffee_grams": 19,
+    "water_grams": 150,
+    "water_temp_c": 91,
+    "technique_notes": "Use two paper filters for a cleaner, richer body that mimics a classic Italian espresso."
+  },
+  {
+    "recipe_id": "br_018",
+    "bean_id": "cb_018",
+    "brew_method": "V60",
+    "grind_size": "Medium",
+    "coffee_grams": 20,
+    "water_grams": 310,
+    "water_temp_c": 92,
+    "technique_notes": "The honey processing benefits from a gentle pulse pour to develop its sweet tropical fruit notes."
+  },
+  {
+    "recipe_id": "br_019",
+    "bean_id": "cb_019",
+    "brew_method": "Chemex",
+    "grind_size": "Medium",
+    "coffee_grams": 35,
+    "water_grams": 550,
+    "water_temp_c": 95,
+    "technique_notes": "A meticulous, slow pour is required to extract the delicate green tea and red currant flavors."
+  },
+  {
+    "recipe_id": "br_020",
+    "bean_id": "cb_020",
+    "brew_method": "French Press",
+    "grind_size": "Medium-Coarse",
+    "coffee_grams": 33,
+    "water_grams": 480,
+    "water_temp_c": 94,
+    "technique_notes": "Embrace the sediment; the wild, winey notes of Yemen Mocha are best expressed with immersion."
+  },
+  {
+    "recipe_id": "br_021",
+    "bean_id": "cb_021",
+    "brew_method": "V60",
+    "grind_size": "Medium",
+    "coffee_grams": 25,
+    "water_grams": 400,
+    "water_temp_c": 93,
+    "technique_notes": "To preserve its famous smoothness, avoid overly hot water and aim for a 3-minute brew time."
+  },
+  {
+    "recipe_id": "br_022",
+    "bean_id": "cb_022",
+    "brew_method": "Chemex",
+    "grind_size": "Medium-Coarse",
+    "coffee_grams": 40,
+    "water_grams": 680,
+    "water_temp_c": 94,
+    "technique_notes": "This delicate coffee shines in a Chemex, which produces a clean cup to highlight its subtle sweetness."
+  },
+  {
+    "recipe_id": "br_023",
+    "bean_id": "cb_023",
+    "brew_method": "AeroPress",
+    "grind_size": "Medium-Fine",
+    "coffee_grams": 18,
+    "water_grams": 230,
+    "water_temp_c": 91,
+    "technique_notes": "Let it steep for a full 2 minutes before pressing to develop the syrupy body and savory notes."
+  },
+  {
+    "recipe_id": "br_024",
+    "bean_id": "cb_024",
+    "brew_method": "V60",
+    "grind_size": "Medium-Fine",
+    "coffee_grams": 19,
+    "water_grams": 300,
+    "water_temp_c": 95,
+    "technique_notes": "Keep your kettle high during the pour to increase agitation and enhance the bright, citrusy acidity."
+  },
+  {
+    "recipe_id": "br_025",
+    "bean_id": "cb_025",
+    "brew_method": "V60",
+    "grind_size": "Medium-Fine",
+    "coffee_grams": 20,
+    "water_grams": 330,
+    "water_temp_c": 96,
+    "technique_notes": "This complex coffee needs high extraction; use multiple pours and agitate the slurry with a gentle swirl."
+  },
+  {
+    "recipe_id": "br_026",
+    "bean_id": "cb_026",
+    "brew_method": "French Press",
+    "grind_size": "Coarse",
+    "coffee_grams": 38,
+    "water_grams": 550,
+    "water_temp_c": 90,
+    "technique_notes": "A lower temperature and longer steep time (4:30) will bring out the deep chocolate and fig notes."
+  },
+  {
+    "recipe_id": "br_027",
+    "bean_id": "cb_027",
+    "brew_method": "French Press",
+    "grind_size": "Coarse",
+    "coffee_grams": 40,
+    "water_grams": 600,
+    "water_temp_c": 92,
+    "technique_notes": "This unique coffee has very low acidity; don't be afraid of a longer steep to develop its earthy character."
+  },
+  {
+    "recipe_id": "br_028",
+    "bean_id": "cb_028",
+    "brew_method": "AeroPress",
+    "grind_size": "Medium",
+    "coffee_grams": 17,
+    "water_grams": 250,
+    "water_temp_c": 93,
+    "technique_notes": "For a classic, balanced cup, use the standard (non-inverted) method and plunge right after pouring."
+  },
+  {
+    "recipe_id": "br_029",
+    "bean_id": "cb_029",
+    "brew_method": "French Press",
+    "grind_size": "Coarse",
+    "coffee_grams": 35,
+    "water_grams": 500,
+    "water_temp_c": 91,
+    "technique_notes": "Break the crust at 1 minute and scoop the foam off the top for a cleaner Robusta experience."
+  },
+  {
+    "recipe_id": "br_030",
+    "bean_id": "cb_030",
+    "brew_method": "Chemex",
+    "grind_size": "Medium-Coarse",
+    "coffee_grams": 38,
+    "water_grams": 600,
+    "water_temp_c": 93,
+    "technique_notes": "Rinse the filter thoroughly to ensure the bold, winey notes of the Harrar are not muted by paper taste."
+  },
+  {
+    "recipe_id": "br_031",
+    "bean_id": "cb_031",
+    "brew_method": "French Press",
+    "grind_size": "Coarse",
+    "coffee_grams": 35,
+    "water_grams": 500,
+    "water_temp_c": 92,
+    "technique_notes": "A longer steep of 4:30 minutes will fully develop the earthy and herbal notes characteristic of Gayo."
+  },
+  {
+    "recipe_id": "br_032",
+    "bean_id": "cb_032",
+    "brew_method": "AeroPress",
+    "grind_size": "Medium-Fine",
+    "coffee_grams": 18,
+    "water_grams": 200,
+    "water_temp_c": 90,
+    "technique_notes": "Use the inverted method and a slow 45-second plunge to capture the silky body and spicy finish."
+  },
+  {
+    "recipe_id": "br_033",
+    "bean_id": "cb_033",
+    "brew_method": "V60",
+    "grind_size": "Medium-Fine",
+    "coffee_grams": 20,
+    "water_grams": 330,
+    "water_temp_c": 95,
+    "technique_notes": "Maintain a consistent, slow pour in a spiral motion to accentuate the bright citrus and sweet orange notes."
+  },
+  {
+    "recipe_id": "br_034",
+    "bean_id": "cb_034",
+    "brew_method": "Chemex",
+    "grind_size": "Medium-Coarse",
+    "coffee_grams": 40,
+    "water_grams": 680,
+    "water_temp_c": 94,
+    "technique_notes": "The thick Chemex filter creates an exceptionally clean cup, perfect for highlighting the unique floral and licorice notes."
+  },
+  {
+    "recipe_id": "br_035",
+    "bean_id": "cb_035",
+    "brew_method": "AeroPress",
+    "grind_size": "Medium",
+    "coffee_grams": 17,
+    "water_grams": 250,
+    "water_temp_c": 93,
+    "technique_notes": "A standard, upright brew with a 90-second steep time yields a balanced and smooth cup every time."
+  },
+  {
+    "recipe_id": "br_036",
+    "bean_id": "cb_036",
+    "brew_method": "French Press",
+    "grind_size": "Coarse",
+    "coffee_grams": 38,
+    "water_grams": 550,
+    "water_temp_c": 91,
+    "technique_notes": "Break the crust at 1 minute to ensure all grounds are saturated, deepening the classic cedar and spice flavors."
+  },
+  {
+    "recipe_id": "br_037",
+    "bean_id": "cb_037",
+    "brew_method": "V60",
+    "grind_size": "Medium",
+    "coffee_grams": 22,
+    "water_grams": 360,
+    "water_temp_c": 93,
+    "technique_notes": "A 30-second bloom followed by three even pours will create a well-balanced cup with classic nutty and chocolate notes."
+  },
+  {
+    "recipe_id": "br_038",
+    "bean_id": "cb_038",
+    "brew_method": "V60",
+    "grind_size": "Medium-Fine",
+    "coffee_grams": 19,
+    "water_grams": 310,
+    "water_temp_c": 96,
+    "technique_notes": "Use higher temperature water and agitate with a gentle swirl after the second pour to bring out the bright passionfruit notes."
+  },
+  {
+    "recipe_id": "br_039",
+    "bean_id": "cb_039",
+    "brew_method": "Chemex",
+    "grind_size": "Medium-Coarse",
+    "coffee_grams": 35,
+    "water_grams": 580,
+    "water_temp_c": 92,
+    "technique_notes": "A lower temperature and slow pour rate will prevent bitterness and highlight the unique winey acidity and berry notes."
+  },
+  {
+    "recipe_id": "br_040",
+    "bean_id": "cb_040",
+    "brew_method": "AeroPress",
+    "grind_size": "Fine",
+    "coffee_grams": 20,
+    "water_grams": 160,
+    "water_temp_c": 90,
+    "technique_notes": "Create a strong, concentrated shot and then dilute with hot water (an 'Americano') to enjoy its bold, nutty flavor."
+  },
+  {
+    "recipe_id": "br_d316b089",
+    "bean_id": "cb_46cccb79",
+    "brew_method": "V60",
+    "grind_size": "Coarse",
+    "coffee_grams": 35.0,
+    "water_grams": 500,
+    "water_temp_c": 92,
+    "technique_notes": "Use a slightly lower water temperature and a 4-minute steep to bring out the rich chocolate and cedar notes without introducing too much bitterness."
+  },
+  {
+    "recipe_id": "br_bf767c29",
+    "bean_id": "cb_b82c1bb0",
+    "brew_method": "Chemex",
+    "grind_size": "Medium-Coarse",
+    "coffee_grams": 35.0,
+    "water_grams": 200,
+    "water_temp_c": 80,
+    "technique_notes": "spiral motion"
+  },
+  {
+    "recipe_id": "br_00123456test",
+    "bean_id": "cb_007",
+    "brew_method": "V60",
+    "grind_size": "Medium-Coarse",
+    "coffee_grams": 20,
+    "water_grams": 180,
+    "water_temp_c": 100,
+    "technique_notes": "Create a strong, concentrated shot and then dilute with hot water (an 'Americano') to enjoy its bold, floral flavor."
+  }
+]

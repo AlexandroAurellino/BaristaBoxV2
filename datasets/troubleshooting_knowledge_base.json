@@ -1,0 +1,126 @@
+{
+  "sour": {
+    "description": "A sharp, acidic, lemony taste is a classic sign of under-extraction. The water hasn't had enough time or energy to dissolve the sweeter, more complex flavor compounds.",
+    "causes": {
+      "grind_coarse": {
+        "question": "Does your coffee grind look too much like coarse sand or breadcrumbs?",
+        "solution": "Try adjusting your grinder to a finer setting. This increases the surface area of the coffee, allowing for more efficient extraction."
+      },
+      "brew_time_short": {
+        "question": "Did your brew finish much faster than the recipe suggested (e.g., under 2 minutes for a V60)?",
+        "solution": "Extend the contact time between the water and coffee. For pour-overs, pour the water more slowly and in stages. For immersion brewers, increase the steep time."
+      },
+      "water_temp_low": {
+        "question": "Is your water temperature below 90°C (195°F)?",
+        "solution": "Increase your water temperature. Hotter water has more energy to extract flavors. Aim for the 92-96°C (198-205°F) range."
+      }
+    }
+  },
+  "bitter": {
+    "description": "A harsh, burnt, or unpleasantly astringent aftertaste is the primary indicator of over-extraction. The water has dissolved too many compounds from the coffee, including the bitter ones.",
+    "causes": {
+      "grind_fine": {
+        "question": "Do your coffee grounds look powdery, like flour or fine table salt?",
+        "solution": "Adjust your grinder to a coarser setting. This will reduce the surface area and allow water to flow through more easily."
+      },
+      "brew_time_long": {
+        "question": "Did your brew take significantly longer than the recipe's target time (e.g., over 4 minutes for a V60)?",
+        "solution": "Shorten the contact time. For pour-overs, pour faster or grind coarser. For immersion brewers, reduce your steep time."
+      },
+      "water_temp_high": {
+        "question": "Is your water boiling or very close to boiling (above 96°C or 205°F) when you pour it?",
+        "solution": "Let your water cool for 30-60 seconds after it boils. Using water that is too hot can scorch the grounds and extract bitter flavors."
+      }
+    }
+  },
+  "weak": {
+    "description": "A thin, watery, or tea-like taste that lacks body and flavor intensity. It feels lifeless.",
+    "causes": {
+      "bad_ratio": {
+        "question": "Are you using too much water for the amount of coffee? (A standard ratio is around 1 part coffee to 16 parts water).",
+        "solution": "Increase your dose of coffee for the same amount of water, or use less water for the same dose. A good starting point is to add 1-2 more grams of coffee."
+      },
+      "grind_too_coarse": {
+        "question": "Is your grind size very coarse, preventing proper extraction within the brew time?",
+        "solution": "Even if it's not sour, a grind that is too coarse can prevent enough flavor from being extracted. Try a slightly finer grind."
+      },
+      "channeling": {
+        "question": "When brewing a pour-over, did you notice water seeming to rush through certain spots in the coffee bed, creating little tunnels?",
+        "solution": "Focus on creating a flat, level bed of coffee before brewing. Pour the water gently and evenly over the entire surface to ensure uniform extraction."
+      }
+    }
+  },
+  "muddy": {
+    "description": "The coffee tastes unclear, heavy, and has an unpleasant gritty or dusty texture. The individual tasting notes are hard to distinguish.",
+    "causes": {
+      "too_many_fines": {
+        "question": "Do you see a lot of sediment or sludge at the bottom of your cup?",
+        "solution": "This is caused by 'fines' - tiny coffee particles. A higher quality burr grinder produces a more consistent grind. Alternatively, you can try sifting the grounds."
+      },
+      "filter_issue": {
+        "question": "Are you using a French Press, a metal filter, or a very thin paper filter?",
+        "solution": "Metal filters inherently allow more fine particles through. For a cleaner cup, try a high-quality paper filter. If using a French Press, press the plunger slowly and avoid pouring out the very last bit from the bottom."
+      }
+    }
+  },
+  "stale": {
+    "description": "The coffee lacks any vibrant aroma or flavor. It tastes flat, lifeless, and generic, with a cardboard-like quality.",
+    "causes": {
+      "old_beans": {
+        "question": "Were your coffee beans roasted more than a month ago?",
+        "solution": "Coffee is best used within a few weeks of its roast date. Always buy freshly roasted beans and check for a 'roasted on' date on the bag."
+      },
+      "pre_ground_coffee": {
+        "question": "Did you use coffee that was ground a long time ago (e.g., pre-ground from a store)?",
+        "solution": "Coffee loses its aroma and flavor very quickly after grinding. For the best taste, grind your beans immediately before you brew."
+      },
+      "improper_storage": {
+        "question": "Are you storing your coffee beans in an airtight container away from light, heat, and moisture?",
+        "solution": "Store your whole beans in an opaque, airtight container in a cool, dark place. Avoid the refrigerator or freezer, as this can introduce moisture."
+      }
+    }
+  },
+  "papery": {
+    "description": "A distinct, distracting flavor reminiscent of wet paper, cardboard, or wood, which masks the coffee's natural notes.",
+    "causes": {
+      "unrinsed_filter": {
+        "question": "Did you rinse your paper filter with hot water before adding the coffee grounds?",
+        "solution": "Always thoroughly rinse your paper filter with hot water before brewing. This washes away paper residue and preheats your brewer, making a significant difference."
+      },
+      "low_quality_filter": {
+        "question": "Are you using a generic or very thin paper filter?",
+        "solution": "Not all filters are created equal. Try a different brand of paper filter, as some impart more flavor than others. Oxygen-bleached filters generally impart less flavor."
+      }
+    }
+  },
+  "hollow_or_uneven": {
+    "description": "The coffee has some initial flavor, perhaps some sweetness or acidity, but it lacks depth and the taste disappears quickly, leaving no pleasant aftertaste. It might even taste like a confusing mix of sour and bitter.",
+    "causes": {
+      "channeling": {
+        "question": "When brewing your pour-over, did you notice the water draining unevenly, perhaps faster on the sides?",
+        "solution": "This points to an uneven extraction. Focus on creating a flat, even bed of grounds before you start. Pour water gently and in circles to ensure all the coffee is saturated equally."
+      },
+      "water_chemistry": {
+        "question": "Are you using very soft or distilled water?",
+        "solution": "Coffee needs some mineral content in the water to extract flavor properly. Try using filtered tap water or a specific brewing water solution like Third Wave Water."
+      }
+    }
+  },
+  "off_tastes": {
+    "description": "The coffee has a distinct and unpleasant flavor that is not typical of coffee, such as salty, metallic, or chemical.",
+    "causes": {
+      "water_softener": {
+        "question": "Do you use a household water softener that uses sodium ion exchange? This can cause a salty taste.",
+        "solution": "Do not use sodium-softened water for brewing coffee. Switch to using filtered or bottled water."
+      },
+      "dirty_equipment": {
+        "question": "When was the last time you deep-cleaned your brewer, grinder, or kettle? This can cause metallic or chemical tastes.",
+        "solution": "Coffee oils can build up and go rancid, and mineral scale can accumulate in your kettle. Regularly clean and descale all your coffee equipment."
+      },
+      "water_source": {
+        "question": "Are you brewing with hard water or water that has a noticeable mineral or metallic taste on its own?",
+        "solution": "Water with high mineral content, especially iron, can create a metallic taste. Try brewing with a different water source (filtered or bottled) to see if the problem persists."
+      }
+    }
+  }
+}

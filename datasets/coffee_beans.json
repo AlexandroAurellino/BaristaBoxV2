@@ -1,0 +1,502 @@
+[
+  {
+    "id": "cb_001",
+    "name": "Ethiopia Yirgacheffe",
+    "origin": "Ethiopia",
+    "type": "Arabica",
+    "roast_level": 1,
+    "processing": "Washed",
+    "tasting_notes": "Bright and clean with distinct floral, citrus, and tea-like notes.",
+    "expert_tags": [
+      "Fruity",
+      "Bright",
+      "Floral",
+      "Morning Coffee",
+      "Adventurous"
+    ]
+  },
+  {
+    "id": "cb_002",
+    "name": "Colombia Supremo",
+    "origin": "Colombia",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Washed",
+    "tasting_notes": "A well-balanced and smooth cup with notes of caramel, chocolate, and a hint of citrus.",
+    "expert_tags": ["Classic", "Balanced", "Chocolatey", "Nutty", "Comforting"]
+  },
+  {
+    "id": "cb_003",
+    "name": "Kenya AA Nyeri",
+    "origin": "Kenya",
+    "type": "Arabica",
+    "roast_level": 2,
+    "processing": "Washed",
+    "tasting_notes": "Vibrant and complex with a wine-like acidity, showcasing notes of blackcurrant, grapefruit, and florals.",
+    "expert_tags": ["Fruity", "Bright", "Complex", "Adventurous", "Bold"]
+  },
+  {
+    "id": "cb_004",
+    "name": "Sumatra Mandheling",
+    "origin": "Indonesia",
+    "type": "Arabica",
+    "roast_level": 4,
+    "processing": "Wet-Hulled",
+    "tasting_notes": "Full-bodied and earthy with low acidity, featuring flavors of dark chocolate, cedar, and spice.",
+    "expert_tags": ["Earthy", "Bold", "Comforting", "Dessert Coffee", "Spicy"]
+  },
+  {
+    "id": "cb_005",
+    "name": "Brazil Cerrado",
+    "origin": "Brazil",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Natural",
+    "tasting_notes": "A smooth, low-acidity coffee with prominent notes of roasted almond, dark chocolate, and caramel.",
+    "expert_tags": ["Nutty", "Chocolatey", "Classic", "Smooth", "Comforting"]
+  },
+  {
+    "id": "cb_006",
+    "name": "Guatemala Antigua",
+    "origin": "Guatemala",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Washed",
+    "tasting_notes": "Rich and velvety with a spicy flavor profile, complemented by notes of fine chocolate and caramel.",
+    "expert_tags": [
+      "Chocolatey",
+      "Spicy",
+      "Classic",
+      "Balanced",
+      "Afternoon Delight"
+    ]
+  },
+  {
+    "id": "cb_007",
+    "name": "Costa Rica Tarrazú",
+    "origin": "Costa Rica",
+    "type": "Arabica",
+    "roast_level": 2,
+    "processing": "Washed",
+    "tasting_notes": "Crisp and bright with a sweet citrus finish and hints of milk chocolate and honey.",
+    "expert_tags": ["Bright", "Fruity", "Clean", "Morning Coffee", "Classic"]
+  },
+  {
+    "id": "cb_008",
+    "name": "Panama Geisha",
+    "origin": "Panama",
+    "type": "Arabica",
+    "roast_level": 1,
+    "processing": "Washed",
+    "tasting_notes": "Exquisitely floral and delicate, with a complex profile of jasmine, bergamot, and tropical fruits.",
+    "expert_tags": ["Floral", "Complex", "Adventurous", "Bright", "Tea-like"]
+  },
+  {
+    "id": "cb_009",
+    "name": "Ethiopia Sidamo Guji",
+    "origin": "Ethiopia",
+    "type": "Arabica",
+    "roast_level": 2,
+    "processing": "Natural",
+    "tasting_notes": "Sweet and fruity with dominant notes of blueberry, strawberry jam, and a creamy body.",
+    "expert_tags": ["Fruity", "Sweet", "Bold", "Adventurous", "Dessert Coffee"]
+  },
+  {
+    "id": "cb_010",
+    "name": "Honduras Marcala",
+    "origin": "Honduras",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Washed",
+    "tasting_notes": "A balanced and sweet cup with notes of milk chocolate, caramel, and a soft, nutty finish.",
+    "expert_tags": ["Balanced", "Chocolatey", "Nutty", "Comforting", "Classic"]
+  },
+  {
+    "id": "cb_011",
+    "name": "Rwanda Kivu",
+    "origin": "Rwanda",
+    "type": "Arabica",
+    "roast_level": 2,
+    "processing": "Washed",
+    "tasting_notes": "Bright and juicy with flavors of red apple, orange zest, and a hint of baking spice.",
+    "expert_tags": ["Fruity", "Bright", "Spicy", "Complex", "Afternoon Delight"]
+  },
+  {
+    "id": "cb_012",
+    "name": "Mexico Chiapas",
+    "origin": "Mexico",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Washed",
+    "tasting_notes": "A smooth, medium-bodied coffee with notes of milk chocolate, roasted nuts, and a hint of lemon.",
+    "expert_tags": [
+      "Classic",
+      "Nutty",
+      "Chocolatey",
+      "Smooth",
+      "Morning Coffee"
+    ]
+  },
+  {
+    "id": "cb_013",
+    "name": "Peru Cajamarca",
+    "origin": "Peru",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Washed",
+    "tasting_notes": "Sweet and mellow with a creamy body, featuring notes of brown sugar, almond, and a touch of green apple.",
+    "expert_tags": [
+      "Sweet",
+      "Balanced",
+      "Nutty",
+      "Comforting",
+      "Afternoon Delight"
+    ]
+  },
+  {
+    "id": "cb_014",
+    "name": "Tanzania Peaberry",
+    "origin": "Tanzania",
+    "type": "Arabica",
+    "roast_level": 2,
+    "processing": "Washed",
+    "tasting_notes": "A bright and vibrant cup with a rich body and notes of blackberry, lemon, and a chocolatey finish.",
+    "expert_tags": ["Bright", "Fruity", "Bold", "Complex", "Morning Coffee"]
+  },
+  {
+    "id": "cb_015",
+    "name": "Nicaragua Jinotega",
+    "origin": "Nicaragua",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Washed",
+    "tasting_notes": "A well-rounded coffee with a medium body and flavors of dark chocolate, plum, and a hint of spice.",
+    "expert_tags": ["Chocolatey", "Spicy", "Balanced", "Comforting", "Classic"]
+  },
+  {
+    "id": "cb_016",
+    "name": "India Cherry AA Robusta",
+    "origin": "India",
+    "type": "Robusta",
+    "roast_level": 5,
+    "processing": "Natural",
+    "tasting_notes": "Intensely bold and full-bodied with a powerful dark chocolate and nutty flavor, low acidity and a smooth finish.",
+    "expert_tags": ["Bold", "Intense", "Earthy", "Dessert Coffee", "Classic"]
+  },
+  {
+    "id": "cb_017",
+    "name": "Classic Italian Espresso Blend",
+    "origin": "Multiple",
+    "type": "Arabica/Robusta Blend",
+    "roast_level": 5,
+    "processing": "Mixed",
+    "tasting_notes": "A classic punchy and satisfying espresso with notes of dark chocolate, praline, and rich caramel.",
+    "expert_tags": [
+      "Bold",
+      "Classic",
+      "Intense",
+      "Comforting",
+      "Dessert Coffee"
+    ]
+  },
+  {
+    "id": "cb_018",
+    "name": "El Salvador Pacamara",
+    "origin": "El Salvador",
+    "type": "Arabica",
+    "roast_level": 2,
+    "processing": "Honey",
+    "tasting_notes": "Sweet and complex with a creamy mouthfeel, offering notes of tropical fruit, honey, and a hint of savory herbs.",
+    "expert_tags": [
+      "Sweet",
+      "Fruity",
+      "Complex",
+      "Adventurous",
+      "Afternoon Delight"
+    ]
+  },
+  {
+    "id": "cb_019",
+    "name": "Burundi Kayanza",
+    "origin": "Burundi",
+    "type": "Arabica",
+    "roast_level": 1,
+    "processing": "Washed",
+    "tasting_notes": "A delicate and bright cup with notes of green tea, red currant, and a lingering floral sweetness.",
+    "expert_tags": ["Bright", "Floral", "Tea-like", "Complex", "Adventurous"]
+  },
+  {
+    "id": "cb_020",
+    "name": "Yemen Mocha",
+    "origin": "Yemen",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Natural",
+    "tasting_notes": "An ancient and complex coffee with a wild, winey acidity and notes of dark chocolate, cinnamon, and dried fruit.",
+    "expert_tags": ["Complex", "Spicy", "Fruity", "Adventurous", "Bold"]
+  },
+  {
+    "id": "cb_021",
+    "name": "Jamaica Blue Mountain",
+    "origin": "Jamaica",
+    "type": "Arabica",
+    "roast_level": 2,
+    "processing": "Washed",
+    "tasting_notes": "Famously smooth and mild with a clean taste, well-balanced with a slightly sweet flavor and no bitterness.",
+    "expert_tags": [
+      "Smooth",
+      "Classic",
+      "Balanced",
+      "Comforting",
+      "Morning Coffee"
+    ]
+  },
+  {
+    "id": "cb_022",
+    "name": "Hawaii Kona",
+    "origin": "USA",
+    "type": "Arabica",
+    "roast_level": 2,
+    "processing": "Washed",
+    "tasting_notes": "A smooth, delicate coffee with a rich aroma, featuring notes of milk chocolate, brown sugar, and a hint of tropical fruit.",
+    "expert_tags": [
+      "Smooth",
+      "Sweet",
+      "Classic",
+      "Comforting",
+      "Afternoon Delight"
+    ]
+  },
+  {
+    "id": "cb_023",
+    "name": "Papua New Guinea Sigri",
+    "origin": "Papua New Guinea",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Washed",
+    "tasting_notes": "A medium-bodied coffee with a syrupy mouthfeel and savory-sweet notes of dark chocolate, dried fruit, and a hint of herbs.",
+    "expert_tags": ["Earthy", "Fruity", "Complex", "Bold", "Comforting"]
+  },
+  {
+    "id": "cb_024",
+    "name": "Bolivia Caranavi",
+    "origin": "Bolivia",
+    "type": "Arabica",
+    "roast_level": 2,
+    "processing": "Washed",
+    "tasting_notes": "A clean and crisp cup with a bright, citrusy acidity and notes of caramel, green apple, and jasmine.",
+    "expert_tags": ["Bright", "Clean", "Fruity", "Floral", "Morning Coffee"]
+  },
+  {
+    "id": "cb_025",
+    "name": "Colombia Pink Bourbon",
+    "origin": "Colombia",
+    "type": "Arabica",
+    "roast_level": 1,
+    "processing": "Washed",
+    "tasting_notes": "A complex and floral coffee with high acidity, featuring notes of hibiscus, red berries, and a honey-like sweetness.",
+    "expert_tags": ["Floral", "Bright", "Complex", "Adventurous", "Fruity"]
+  },
+  {
+    "id": "cb_026",
+    "name": "Uganda Bugisu",
+    "origin": "Uganda",
+    "type": "Arabica",
+    "roast_level": 4,
+    "processing": "Washed",
+    "tasting_notes": "A rich, full-bodied coffee with winey acidity and deep notes of dark chocolate, fig, and cedar.",
+    "expert_tags": ["Bold", "Chocolatey", "Earthy", "Fruity", "Comforting"]
+  },
+  {
+    "id": "cb_027",
+    "name": "India Monsooned Malabar",
+    "origin": "India",
+    "type": "Arabica",
+    "roast_level": 4,
+    "processing": "Monsooned",
+    "tasting_notes": "A unique, heavy-bodied coffee with a pungent, earthy flavor profile, low acidity, and notes of baker's chocolate and spice.",
+    "expert_tags": ["Earthy", "Spicy", "Bold", "Adventurous", "Unique"]
+  },
+  {
+    "id": "cb_028",
+    "name": "Vietnam Lam Dong",
+    "origin": "Vietnam",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Washed",
+    "tasting_notes": "A balanced and clean cup with notes of milk chocolate, almond, a hint of orange, and a smooth finish.",
+    "expert_tags": [
+      "Balanced",
+      "Nutty",
+      "Chocolatey",
+      "Classic",
+      "Morning Coffee"
+    ]
+  },
+  {
+    "id": "cb_029",
+    "name": "India Kaapi Royale",
+    "origin": "India",
+    "type": "Robusta",
+    "roast_level": 4,
+    "processing": "Washed",
+    "tasting_notes": "A high-quality robusta with a clean cup profile, featuring rich cocoa powder notes and a hint of nuttiness.",
+    "expert_tags": ["Bold", "Chocolatey", "Nutty", "Intense", "Classic"]
+  },
+  {
+    "id": "cb_030",
+    "name": "Ethiopia Harrar",
+    "origin": "Ethiopia",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Natural",
+    "tasting_notes": "A bold and winey coffee with a heavy body and complex notes of dark berries, chocolate, and a spicy, earthy finish.",
+    "expert_tags": ["Fruity", "Bold", "Spicy", "Earthy", "Adventurous"]
+  },
+  {
+    "id": "cb_031",
+    "name": "Aceh Gayo",
+    "origin": "Indonesia",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Wet-Hulled",
+    "tasting_notes": "A full-bodied and earthy cup with notes of dark chocolate, brown sugar, and a hint of herbal spice. [3, 20]",
+    "expert_tags": [
+      "Earthy",
+      "Bold",
+      "Chocolatey",
+      "Comforting",
+      "Classic",
+      "Spicy"
+    ]
+  },
+  {
+    "id": "cb_032",
+    "name": "Sulawesi Toraja",
+    "origin": "Indonesia",
+    "type": "Arabica",
+    "roast_level": 4,
+    "processing": "Wet-Hulled",
+    "tasting_notes": "Deep and brooding with a silky body, featuring flavors of dark chocolate, ripe fruit, and a warm, spicy finish. [4, 8, 14]",
+    "expert_tags": ["Bold", "Spicy", "Complex", "Earthy", "Dessert Coffee"]
+  },
+  {
+    "id": "cb_033",
+    "name": "Bali Kintamani",
+    "origin": "Indonesia",
+    "type": "Arabica",
+    "roast_level": 2,
+    "processing": "Washed",
+    "tasting_notes": "A smooth and clean cup with a bright, citrusy acidity and sweet notes of orange, chocolate, and a hint of molasses. [7, 12, 26]",
+    "expert_tags": ["Bright", "Fruity", "Clean", "Morning Coffee", "Sweet"]
+  },
+  {
+    "id": "cb_034",
+    "name": "Flores Bajawa",
+    "origin": "Indonesia",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Washed",
+    "tasting_notes": "A unique profile with a syrupy body, floral aroma, and distinct notes of bittersweet chocolate, licorice, and a nutty finish. [18, 29, 42]",
+    "expert_tags": ["Complex", "Floral", "Chocolatey", "Adventurous", "Sweet"]
+  },
+  {
+    "id": "cb_035",
+    "name": "Papua Wamena",
+    "origin": "Indonesia",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Washed",
+    "tasting_notes": "A balanced and smooth coffee with a strong body, featuring notes of chocolate, caramel, and a clean, herbal finish. [2, 5, 10]",
+    "expert_tags": [
+      "Smooth",
+      "Balanced",
+      "Chocolatey",
+      "Classic",
+      "Afternoon Delight"
+    ]
+  },
+  {
+    "id": "cb_036",
+    "name": "Sumatra Lintong",
+    "origin": "Indonesia",
+    "type": "Arabica",
+    "roast_level": 4,
+    "processing": "Wet-Hulled",
+    "tasting_notes": "A classic Sumatran profile with a heavy, syrupy body, low acidity, and deep notes of cedar, spice, and black licorice. [6, 11, 13]",
+    "expert_tags": ["Earthy", "Bold", "Spicy", "Intense", "Comforting"]
+  },
+  {
+    "id": "cb_037",
+    "name": "Java Preanger",
+    "origin": "Indonesia",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Washed",
+    "tasting_notes": "A legacy coffee with a full body, mild acidity, and a flavor profile of milk chocolate, roasted nuts, and a hint of malt. [43, 47, 48]",
+    "expert_tags": ["Classic", "Nutty", "Chocolatey", "Smooth", "Balanced"]
+  },
+  {
+    "id": "cb_038",
+    "name": "Sumatra Kerinci",
+    "origin": "Indonesia",
+    "type": "Arabica",
+    "roast_level": 2,
+    "processing": "Honey",
+    "tasting_notes": "A vibrant and complex cup with a syrupy body, showcasing bright notes of passionfruit, kiwi, and milk chocolate. [36, 39]",
+    "expert_tags": ["Fruity", "Bright", "Complex", "Adventurous", "Sweet"]
+  },
+  {
+    "id": "cb_039",
+    "name": "Gayo Wine Coffee",
+    "origin": "Indonesia",
+    "type": "Arabica",
+    "roast_level": 3,
+    "processing": "Natural",
+    "tasting_notes": "A rare coffee with a unique extended fermentation, resulting in a wine-like acidity, with bold notes of red berries and rich chocolate. [38]",
+    "expert_tags": [
+      "Adventurous",
+      "Fruity",
+      "Complex",
+      "Unique",
+      "Dessert Coffee"
+    ]
+  },
+  {
+    "id": "cb_040",
+    "name": "Java Robusta",
+    "origin": "Indonesia",
+    "type": "Robusta",
+    "roast_level": 5,
+    "processing": "Natural",
+    "tasting_notes": "A strong and bold cup with a thick body, dominated by flavors of bitter chocolate, nuts, and a subtle spicy finish. [41]",
+    "expert_tags": ["Bold", "Intense", "Classic", "Earthy", "Morning Coffee"]
+  },
+  {
+    "id": "cb_46cccb79",
+    "name": "Sumatra Mandheling",
+    "origin": "Indonesia",
+    "type": "Arabica",
+    "roast_level": 4,
+    "processing": "Wet-Hulled",
+    "tasting_notes": "A classic Indonesian coffee with a smooth, full body, low acidity, and rich, complex notes of dark chocolate, cedar, and herbs.",
+    "expert_tags": [
+      "Earthy",
+      "Bold",
+      "Chocolatey",
+      "Comforting",
+      "Classic",
+      "Spicy"
+    ]
+  },
+  {
+    "id": "cb_b82c1bb0",
+    "name": "testetstest",
+    "origin": "indonesia",
+    "type": "Arabica",
+    "roast_level": 2,
+    "processing": "Washed",
+    "tasting_notes": "bright updated",
+    "expert_tags": ["Complex", "Classic", "Chocolatey"]
+  }
+]

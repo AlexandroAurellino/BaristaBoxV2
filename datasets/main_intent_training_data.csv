@@ -1,0 +1,104 @@
+text,intent
+"recommend me a coffee",sommelier
+"how do i brew this",master_brewer
+"my coffee is bad",doctor
+"suggest a coffee for the morning",sommelier
+"what's the best way to make a french press?",master_brewer
+"why does my coffee taste so sour?",doctor
+"i want something fruity and bright",sommelier
+"can you give me a recipe for the ethiopia yirgacheffe?",master_brewer
+"this tastes really bitter and harsh",doctor
+"find me a classic, comforting coffee",sommelier
+"what grind size should i use for a V60?",master_brewer
+"my coffee is thin and watery",doctor
+"i'm looking for an adventurous coffee bean",sommelier
+"tell me how to brew cb_004",master_brewer
+"it tastes like burnt toast",doctor
+"what's a good dessert coffee?",sommelier
+"aeropress technique tips?",master_brewer
+"the aftertaste is really unpleasant",doctor
+"i like nutty and chocolatey flavors",sommelier
+"how much coffee for a 700ml chemex?",master_brewer
+"help, my coffee tastes like sour lemons",doctor
+"show me a good coffee from Colombia",sommelier
+"what water temperature is best?",master_brewer
+"it just tastes flat and boring",doctor
+"i need a bold coffee",sommelier
+"v60 recipe for kenya aa",master_brewer
+"the coffee tastes muddy and unclear",doctor
+"what's a good bean for someone new to coffee?",sommelier
+"how long should I steep my french press?",master_brewer
+"there's a weird papery taste",doctor
+"recommend a smooth, low-acidity coffee",sommelier
+"how to make a good cup with an aeropress",master_brewer
+"it's too strong and bitter",doctor
+"find a coffee with floral notes",sommelier
+"best way to brew a natural processed coffee?",master_brewer
+"why is my coffee so weak?",doctor
+"i want to try something from Indonesia",sommelier
+"recipe for cb_011 please",master_brewer
+"this has a strange chemical taste",doctor
+"suggest a coffee that's good for espresso",sommelier
+"what am i doing wrong with my pour over?",master_brewer
+"my coffee tastes like cardboard",doctor
+"show me your best arabica beans",sommelier
+"how can I make my coffee stronger?",master_brewer
+"it tastes hollow, like there's nothing there",doctor
+"looking for a coffee with spicy notes",sommelier
+"chemex tips and tricks",master_brewer
+"the taste is really sharp and unpleasant",doctor
+"what's a good bean to try for my V60?",sommelier
+"can you help me with my brew ratio?",master_brewer
+"it tastes like I'm licking a battery",doctor
+"find me a high-quality robusta",sommelier
+"what's the recipe for the sumatra mandheling?",master_brewer
+"i think i burnt my coffee",doctor
+"i'd like a recommendation",sommelier
+"how to brew coffee",master_brewer
+"this doesn't taste right",doctor
+"suggest something for the afternoon",sommelier
+"best brewing method for a light roast?",master_brewer
+"my coffee is just awful",doctor
+"i'm feeling like a classic coffee today",sommelier
+"what are the steps for a perfect chemex?",master_brewer
+"it has a salty aftertaste, which is weird",doctor
+"tell me about your ethiopian coffees",sommelier
+"how do I get a cleaner cup from my french press?",master_brewer
+"this is too acidic",doctor
+"find me a coffee that will surprise me",sommelier
+"guide me through a V60 brew",master_brewer
+"my coffee tastes stale",doctor
+"what do you have from Brazil?",sommelier
+"help me brew this bean",master_brewer
+"troubleshoot my coffee",doctor
+"i want the fruitiest coffee you have",sommelier
+"instructions for brewing cb_025",master_brewer
+"why is it so astringent?",doctor
+"recommend a balanced coffee",sommelier
+"what's your best brewing advice?",master_brewer
+"fix my coffee recipe",doctor
+"i need a coffee for a special occasion",sommelier
+"show me how to use an aeropress",master_brewer
+"it tastes like wet paper",doctor
+"what's a good coffee to drink black?",sommelier
+"can you help me dial in my grinder?",master_brewer
+"the flavor is just... off",doctor
+"find me a coffee that tastes like chocolate",sommelier
+"how long should my pour-over take?",master_brewer
+"my coffee has a metallic taste",doctor
+"i want to try a honey processed coffee",sommelier
+"give me a foolproof french press recipe",master_brewer
+"this tastes like dirt",doctor
+"suggest a dark roast",sommelier
+"what's a good coffee to water ratio?",master_brewer
+"my coffee is undrinkable",doctor
+"find me something unique",sommelier
+"show me the recipe for this coffee",master_brewer
+"it's sour and bitter at the same time",doctor
+"what's your most popular coffee?",sommelier
+"help me with my brewing technique",master_brewer
+"it's just a cup of bitterness",doctor
+"i need a recipe",master_brewer
+"give me a recipe",master_brewer
+"recipe please",master_brewer
+"looking for a recipe",master_brewer

@@ -1,0 +1,20 @@
+# Virtual Environment (JANGAN DI-PUSH)
+.venv/
+venv/
+env/
+
+# Python Cache (JANGAN DI-PUSH)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit Secrets (SANGAT PENTING: JANGAN DI-PUSH)
+.streamlit/secrets.toml
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Mac OS junk
+.DS_Store
